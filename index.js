@@ -2,7 +2,7 @@
 
     "capstone": {
 
-        "liveLink": "<github page link>",
+        "liveLink": "https://chrisgengos.github.io/webportfolio/",
 
         "name": "<your name>",
 
