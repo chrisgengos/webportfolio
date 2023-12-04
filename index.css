@@ -1,0 +1,10 @@
+*{
+box-sizing: border-box;
+}
+.card-title {text-align: center;
+}
+
+html {scroll-behavior: smooth;}
+
+body {font-family: "Hedvig Letters Sans", sans-serif;
+}
