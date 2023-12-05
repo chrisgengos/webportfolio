@@ -4,7 +4,7 @@
 
         "liveLink": "https://github.com/chrisgengos/webportfolio",
 
-        "name": "<your name>",
+        "name": "Chris Gengos",
 
         "isMulti": false
 
